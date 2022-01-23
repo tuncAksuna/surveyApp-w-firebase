@@ -1,0 +1,615 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1864.0,
+  "height" : 940.0,
+  "version" : "0.5",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia Studio",
+    "platform" : "Windows",
+    "version" : "9.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\netadmin\\Documents\\Camtasia Studio\\Rec 05-05-21.trec",
+      "rect" : [0, 0, 1864, 940],
+      "lastMod" : "20210505T103339",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3807],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1864, 940],
+          "sampleRate" : 26,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "metaData" : "Rec 05-05-21.trec;"
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 2,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 126.3,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 3,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 05-05-21"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 2.13688622352493e-10,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 3789,
+                    "mediaStart" : 18,
+                    "mediaDuration" : 3789,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-translation0" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 4,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinXML",
+                      "shape" : "",
+                      "style" : "",
+                      "CutoutPercentage" : -1.0,
+                      "RoundedRectRadius" : -1.0,
+                      "Style" : 5.0,
+                      "borderColorBlue" : 0.843137254901961,
+                      "borderColorGreen" : 0.843137254901961,
+                      "borderColorRed" : 0.843137254901961,
+                      "borderState" : 1.0,
+                      "borderWidth" : 5.0,
+                      "dimensionTime" : 0.0,
+                      "fillColorBlue" : 0.87843137254902,
+                      "fillColorGreen" : 0.372549019607843,
+                      "fillColorRed" : 0.0,
+                      "fillState" : 1.0,
+                      "flipOnXAxis" : 0.0,
+                      "flipOnYAxis" : 0.0,
+                      "height" : 395.477744807122,
+                      "textIgnoresOpacity" : 0.0,
+                      "textRectHeight" : 0.458041958041958,
+                      "textRectWidth" : 0.762611275964392,
+                      "textRectX" : 0.118694362017804,
+                      "textRectY" : 0.20979020979021,
+                      "textVerticalAlign" : 0.0,
+                      "width" : 466.0,
+                      "VectorPath" : "M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579\n\tc-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947\n\tC75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z",
+                      "filename" : "C:\\Program Files\\TechSmith\\Camtasia 9\\Media\\Studio\\Callouts\\speech bubble 1.xml",
+                      "name" : "Speech Bubble",
+                      "text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset162 Arial;}{\\f1\\fswiss\\fprq2\\fcharset0 Arial;}{\\f2\\fswiss\\fprq2\\fcharset238 Arial;}{\\f3\\fnil\\fcharset0 Arial;}}\r\n{\\colortbl ;\\red255\\green255\\blue255;}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\qc\\cf1\\f0\\fs72\\lang1055 Cevaba g\\f1\\lang1033\\'f6\\f0\\lang1055 re ba\\f2\\'ba\\f0 ka soru gelmesi\\f1\\lang1033\\par\r\n\\f3\\fs64\\lang1055\\par\r\n}\r\n",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>speech bubble 1.png</Overlay_Filename>\n<Overlay_Name>Speech Bubble</Overlay_Name>\n<Text_Top>60</Text_Top>\n<Text_Left>40</Text_Left>\n<Text_Bottom>95</Text_Bottom>\n<Text_Right>40</Text_Right>\n<Fill_Color>1</Fill_Color>\n<Border_Color>1</Border_Color>\n<Initial_Fill_Color>0xffe05f00</Initial_Fill_Color>\n<Initial_Border_Color>0xffd7d7d7</Initial_Border_Color>\n<VectorProps>\n<figure>\n<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579\n\tc-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947\n\tC75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>\n</figure>\n<borderWidth>5.00</borderWidth>\n<seamY>125.125</seamY>\n<shapeWidth>337</shapeWidth>\n<shapeHeight>286</shapeHeight>\n</VectorProps>\n<Style>5</Style>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -566.265060241472,
+                      "translation1" : 98.7951807229561,
+                      "scale0" : 1.31025389110011,
+                      "scale1" : 0.610049196388978
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 243,
+                    "duration" : 57,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 57,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-fill-color-blue" : 0.87843137254902,
+                      "default-fill-color-green" : 0.372549019607843,
+                      "default-fill-color-red" : 0.0,
+                      "default-legacy-flip-y" : 0.0,
+                      "default-legacy-text-callout-vertical-align" : "middle",
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-stroke-color-blue" : 0.843137254901961,
+                      "default-stroke-color-green" : 0.843137254901961,
+                      "default-stroke-color-red" : 0.843137254901961,
+                      "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Arial;}}{\\colortbl ;\\red255\\green255\\blue255;}\\viewkind4\\uc1\\pard\\qc\\cf1\\fs72 abc}",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 5,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinXML",
+                      "shape" : "",
+                      "style" : "",
+                      "CutoutPercentage" : -1.0,
+                      "RoundedRectRadius" : -1.0,
+                      "Style" : 5.0,
+                      "borderColorBlue" : 0.843137254901961,
+                      "borderColorGreen" : 0.843137254901961,
+                      "borderColorRed" : 0.843137254901961,
+                      "borderState" : 1.0,
+                      "borderWidth" : 5.0,
+                      "dimensionTime" : 0.0,
+                      "fillColorBlue" : 0.87843137254902,
+                      "fillColorGreen" : 0.372549019607843,
+                      "fillColorRed" : 0.0,
+                      "fillState" : 1.0,
+                      "flipOnXAxis" : 0.0,
+                      "flipOnYAxis" : 0.0,
+                      "height" : 334.273556231003,
+                      "textIgnoresOpacity" : 0.0,
+                      "textRectHeight" : 0.406779661016949,
+                      "textRectWidth" : 0.696048632218845,
+                      "textRectX" : 0.060790273556231,
+                      "textRectY" : 0.296610169491525,
+                      "textVerticalAlign" : 0.0,
+                      "width" : 466.0,
+                      "VectorPath" : "M\n         M 183 236 \n         L 183 179 L 0 179 \n         L 0 56    L 183 56\n         L 183 0   L 329 118 \n         Z\n    Z",
+                      "filename" : "C:\\Program Files\\TechSmith\\Camtasia 9\\Media\\Studio\\Callouts\\pointy arrow.xml",
+                      "name" : "Pointy Arrow",
+                      "text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset162 Arial;}{\\f1\\fswiss\\fprq2\\fcharset238 Arial;}{\\f2\\fswiss\\fprq2\\fcharset0 Arial;}}\r\n{\\colortbl ;\\red255\\green255\\blue255;}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\qc\\cf1\\f0\\fs72\\lang1055 Anket bitti\\f1\\u287?\\f0 inde \\f2\\lang1033\\par\r\n}\r\n",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>pointy arrow.png</Overlay_Filename>\n<Overlay_Name>Pointy Arrow</Overlay_Name>\n<Text_Top>70</Text_Top>\n<Text_Left>20</Text_Left>\n<Text_Bottom>70</Text_Bottom>\n<Text_Right>80</Text_Right>\n<Fill_Color>1</Fill_Color>\n<Border_Color>1</Border_Color>\n<Initial_Fill_Color>0xffe05f00</Initial_Fill_Color>\n<Initial_Border_Color>0xffd7d7d7</Initial_Border_Color>\n<VectorProps>\n  <figure>\n    <svg>\n         M 183 236 \n         L 183 179 L 0 179 \n         L 0 56    L 183 56\n         L 183 0   L 329 118 \n         Z\n    </svg>\n\n  </figure>\n  <borderWidth>5.00</borderWidth>\n  <seamY>118</seamY>\n  <textBoundaries>P3 P4 IH4:5:6 P1</textBoundaries>\n  <shapeConstraints>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <bound>0</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>3</pointIndex1>\n      <bound>1</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <pointIndex2>6</pointIndex2>\n      <pointHint>3</pointHint>\n      <bound>2</bound>\n      <constrainType>1</constrainType>\n    </shapeConstraints_Object>\n  </shapeConstraints>\n  <reshapers>\n    <reshapers_Object>\n      <pointIndex>5</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.00</constrainBottomA>\n      <constrainBottomB>0.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>0</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>4</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.5</constrainBottomA>\n      <constrainBottomB>-10.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>3</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>0.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>8.00</constrainTopB>\n      <constrainRightA>0.00</constrainRightA>\n      <constrainRightB>0.00</constrainRightB>\n      <constrainBottomA>0.50</constrainBottomA>\n      <constrainBottomB>-8.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>2</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>1.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n  </reshapers>\n  <shapeWidth>329</shapeWidth>\n  <shapeHeight>236</shapeHeight>\n</VectorProps>\n<Style>5</Style>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -323.493975903438,
+                      "translation1" : -272.891566264708,
+                      "rotation2" : 3.14159265358979,
+                      "scale0" : 1.09049071823849,
+                      "scale1" : 0.574693628529441
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 518,
+                    "duration" : 32,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 32,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-fill-color-blue" : 0.87843137254902,
+                      "default-fill-color-green" : 0.372549019607843,
+                      "default-fill-color-red" : 0.0,
+                      "default-legacy-flip-y" : 0.0,
+                      "default-legacy-text-callout-vertical-align" : "middle",
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-stroke-color-blue" : 0.843137254901961,
+                      "default-stroke-color-green" : 0.843137254901961,
+                      "default-stroke-color-red" : 0.843137254901961,
+                      "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Arial;}}{\\colortbl ;\\red255\\green255\\blue255;}\\viewkind4\\uc1\\pard\\qc\\cf1\\fs72 abc}",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 6,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinXML",
+                      "shape" : "",
+                      "style" : "",
+                      "CutoutPercentage" : -1.0,
+                      "RoundedRectRadius" : -1.0,
+                      "Style" : 5.0,
+                      "borderColorBlue" : 0.843137254901961,
+                      "borderColorGreen" : 0.843137254901961,
+                      "borderColorRed" : 0.843137254901961,
+                      "borderState" : 1.0,
+                      "borderWidth" : 5.0,
+                      "dimensionTime" : 0.0,
+                      "fillColorBlue" : 0.87843137254902,
+                      "fillColorGreen" : 0.372549019607843,
+                      "fillColorRed" : 0.0,
+                      "fillState" : 1.0,
+                      "flipOnXAxis" : 0.0,
+                      "flipOnYAxis" : 0.0,
+                      "height" : 334.273556231003,
+                      "textIgnoresOpacity" : 0.0,
+                      "textRectHeight" : 0.656779661016949,
+                      "textRectWidth" : 0.635258358662614,
+                      "textRectX" : 0.0227963525835866,
+                      "textRectY" : 0.171610169491525,
+                      "textVerticalAlign" : 0.0,
+                      "width" : 466.0,
+                      "VectorPath" : "M 183.000 236.000 L 183.000 202.340 L 0.000 202.340 L 0.000 32.660 L 183.000 32.660 L 183.000 0.000 L 329.000 118.000 Z",
+                      "filename" : "C:\\Program Files\\TechSmith\\Camtasia 9\\Media\\Studio\\Callouts\\pointy arrow.xml",
+                      "name" : "Pointy Arrow",
+                      "text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset162 Arial;}{\\f1\\fswiss\\fprq2\\fcharset238 Arial;}{\\f2\\fswiss\\fprq2\\fcharset0 Arial;}}\r\n{\\colortbl ;\\red255\\green255\\blue255;}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\qc\\cf1\\f0\\fs72\\lang1055 Ba\\f1\\'ba\\f0 ka bir se\\f2\\lang1033\\'e7\\f0\\lang1055 enek se\\f2\\lang1033\\'e7\\f0\\lang1055 ildi\\f1\\u287?\\f0 inde\\f2\\lang1033\\par\r\n}\r\n",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>pointy arrow.png</Overlay_Filename>\n<Overlay_Name>Pointy Arrow</Overlay_Name>\n<Text_Top>70</Text_Top>\n<Text_Left>20</Text_Left>\n<Text_Bottom>70</Text_Bottom>\n<Text_Right>80</Text_Right>\n<Fill_Color>1</Fill_Color>\n<Border_Color>1</Border_Color>\n<Initial_Fill_Color>0xffe05f00</Initial_Fill_Color>\n<Initial_Border_Color>0xffd7d7d7</Initial_Border_Color>\n<VectorProps>\n  <figure>\n    <svg>\n         M 183 236 \n         L 183 179 L 0 179 \n         L 0 56    L 183 56\n         L 183 0   L 329 118 \n         Z\n    </svg>\n\n  </figure>\n  <borderWidth>5.00</borderWidth>\n  <seamY>118</seamY>\n  <textBoundaries>P3 P4 IH4:5:6 P1</textBoundaries>\n  <shapeConstraints>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <bound>0</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>3</pointIndex1>\n      <bound>1</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <pointIndex2>6</pointIndex2>\n      <pointHint>3</pointHint>\n      <bound>2</bound>\n      <constrainType>1</constrainType>\n    </shapeConstraints_Object>\n  </shapeConstraints>\n  <reshapers>\n    <reshapers_Object>\n      <pointIndex>5</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.00</constrainBottomA>\n      <constrainBottomB>0.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>0</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>4</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.5</constrainBottomA>\n      <constrainBottomB>-10.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>3</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>0.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>8.00</constrainTopB>\n      <constrainRightA>0.00</constrainRightA>\n      <constrainRightB>0.00</constrainRightB>\n      <constrainBottomA>0.50</constrainBottomA>\n      <constrainBottomB>-8.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>2</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>1.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n  </reshapers>\n  <shapeWidth>329</shapeWidth>\n  <shapeHeight>236</shapeHeight>\n</VectorProps>\n<Style>5</Style>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -346.018072289127,
+                      "translation1" : -28.3132530119179,
+                      "rotation2" : 3.14159265358979,
+                      "scale0" : 0.998991674855535,
+                      "scale1" : 0.76211677527989
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 1013,
+                    "duration" : 37,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 37,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-fill-color-blue" : 0.87843137254902,
+                      "default-fill-color-green" : 0.372549019607843,
+                      "default-fill-color-red" : 0.0,
+                      "default-legacy-flip-y" : 0.0,
+                      "default-legacy-text-callout-vertical-align" : "middle",
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-stroke-color-blue" : 0.843137254901961,
+                      "default-stroke-color-green" : 0.843137254901961,
+                      "default-stroke-color-red" : 0.843137254901961,
+                      "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Arial;}}{\\colortbl ;\\red255\\green255\\blue255;}\\viewkind4\\uc1\\pard\\qc\\cf1\\fs72 abc}",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 7,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinXML",
+                      "shape" : "",
+                      "style" : "",
+                      "CutoutPercentage" : -1.0,
+                      "RoundedRectRadius" : -1.0,
+                      "Style" : 5.0,
+                      "borderColorBlue" : 0.843137254901961,
+                      "borderColorGreen" : 0.843137254901961,
+                      "borderColorRed" : 0.843137254901961,
+                      "borderState" : 1.0,
+                      "borderWidth" : 5.0,
+                      "dimensionTime" : 0.0,
+                      "fillColorBlue" : 0.87843137254902,
+                      "fillColorGreen" : 0.372549019607843,
+                      "fillColorRed" : 0.0,
+                      "fillState" : 1.0,
+                      "flipOnXAxis" : 0.0,
+                      "flipOnYAxis" : 0.0,
+                      "height" : 334.273556231003,
+                      "textIgnoresOpacity" : 0.0,
+                      "textRectHeight" : 0.436440677966102,
+                      "textRectWidth" : 0.735562310030395,
+                      "textRectX" : 0.0227963525835866,
+                      "textRectY" : 0.281779661016949,
+                      "textVerticalAlign" : 0.0,
+                      "width" : 466.0,
+                      "VectorPath" : "M 183.000 236.000 L 183.000 176.061 L 0.000 176.061 L 0.000 58.939 L 183.000 58.939 L 183.000 0.000 L 329.000 118.000 Z",
+                      "filename" : "C:\\Program Files\\TechSmith\\Camtasia 9\\Media\\Studio\\Callouts\\pointy arrow.xml",
+                      "name" : "Pointy Arrow",
+                      "text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset162 Arial;}{\\f1\\fswiss\\fprq2\\fcharset238 Arial;}{\\f2\\fswiss\\fprq2\\fcharset0 Arial;}}\r\n{\\colortbl ;\\red255\\green255\\blue255;}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\qc\\cf1\\f0\\fs72\\lang1055 Soru cevapland\\f1\\u305?\\f0 r\\f1\\u305?\\f0 lmazsa\\f2\\lang1033\\par\r\n}\r\n",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>pointy arrow.png</Overlay_Filename>\n<Overlay_Name>Pointy Arrow</Overlay_Name>\n<Text_Top>70</Text_Top>\n<Text_Left>20</Text_Left>\n<Text_Bottom>70</Text_Bottom>\n<Text_Right>80</Text_Right>\n<Fill_Color>1</Fill_Color>\n<Border_Color>1</Border_Color>\n<Initial_Fill_Color>0xffe05f00</Initial_Fill_Color>\n<Initial_Border_Color>0xffd7d7d7</Initial_Border_Color>\n<VectorProps>\n  <figure>\n    <svg>\n         M 183 236 \n         L 183 179 L 0 179 \n         L 0 56    L 183 56\n         L 183 0   L 329 118 \n         Z\n    </svg>\n\n  </figure>\n  <borderWidth>5.00</borderWidth>\n  <seamY>118</seamY>\n  <textBoundaries>P3 P4 IH4:5:6 P1</textBoundaries>\n  <shapeConstraints>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <bound>0</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>3</pointIndex1>\n      <bound>1</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <pointIndex2>6</pointIndex2>\n      <pointHint>3</pointHint>\n      <bound>2</bound>\n      <constrainType>1</constrainType>\n    </shapeConstraints_Object>\n  </shapeConstraints>\n  <reshapers>\n    <reshapers_Object>\n      <pointIndex>5</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.00</constrainBottomA>\n      <constrainBottomB>0.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>0</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>4</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.5</constrainBottomA>\n      <constrainBottomB>-10.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>3</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>0.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>8.00</constrainTopB>\n      <constrainRightA>0.00</constrainRightA>\n      <constrainRightB>0.00</constrainRightB>\n      <constrainBottomA>0.50</constrainBottomA>\n      <constrainBottomB>-8.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>2</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>1.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n  </reshapers>\n  <shapeWidth>329</shapeWidth>\n  <shapeHeight>236</shapeHeight>\n</VectorProps>\n<Style>5</Style>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 68.6746987951889,
+                      "translation1" : -155.421686746857,
+                      "rotation2" : 2.69378878915432,
+                      "scale0" : 1.56362790216658,
+                      "scale1" : 0.715260988593044
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 2594,
+                    "duration" : 58,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 58,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-fill-color-blue" : 0.87843137254902,
+                      "default-fill-color-green" : 0.372549019607843,
+                      "default-fill-color-red" : 0.0,
+                      "default-legacy-flip-y" : 0.0,
+                      "default-legacy-text-callout-vertical-align" : "middle",
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-stroke-color-blue" : 0.843137254901961,
+                      "default-stroke-color-green" : 0.843137254901961,
+                      "default-stroke-color-red" : 0.843137254901961,
+                      "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Arial;}}{\\colortbl ;\\red255\\green255\\blue255;}\\viewkind4\\uc1\\pard\\qc\\cf1\\fs72 abc}",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 8,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "TypeWinXML",
+                      "shape" : "",
+                      "style" : "",
+                      "CutoutPercentage" : -1.0,
+                      "RoundedRectRadius" : -1.0,
+                      "Style" : 5.0,
+                      "borderColorBlue" : 0.843137254901961,
+                      "borderColorGreen" : 0.843137254901961,
+                      "borderColorRed" : 0.843137254901961,
+                      "borderState" : 1.0,
+                      "borderWidth" : 5.0,
+                      "dimensionTime" : 0.0,
+                      "fillColorBlue" : 0.87843137254902,
+                      "fillColorGreen" : 0.372549019607843,
+                      "fillColorRed" : 0.0,
+                      "fillState" : 1.0,
+                      "flipOnXAxis" : 0.0,
+                      "flipOnYAxis" : 0.0,
+                      "height" : 334.273556231003,
+                      "textIgnoresOpacity" : 0.0,
+                      "textRectHeight" : 0.478813559322034,
+                      "textRectWidth" : 0.717325227963526,
+                      "textRectX" : 0.0227963525835866,
+                      "textRectY" : 0.260593220338983,
+                      "textVerticalAlign" : 0.0,
+                      "width" : 466.0,
+                      "VectorPath" : "M 183.000 236.000 L 183.000 180.701 L 0.000 180.701 L 0.000 54.299 L 183.000 54.299 L 183.000 0.000 L 329.000 118.000 Z",
+                      "filename" : "C:\\Program Files\\TechSmith\\Camtasia 9\\Media\\Studio\\Callouts\\pointy arrow.xml",
+                      "name" : "Pointy Arrow",
+                      "text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset162 Arial;}{\\f1\\fswiss\\fprq2\\fcharset238 Arial;}{\\f2\\fswiss\\fprq2\\fcharset0 Arial;}}\r\n{\\colortbl ;\\red255\\green255\\blue255;}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\qc\\cf1\\f0\\fs72\\lang1055 Soruyla ba\\f1\\u287?\\f0 lant\\f1\\u305?\\f0 l\\f1\\u305?\\f0  di\\f1\\u287?\\f0 er sorular\\f2\\lang1033\\par\r\n}\r\n",
+                      "xmlContent" : "﻿<?xml version=\"1.0\"?>\n\n<Overlay version=\"1.0.1\">\n\n<Overlay_Filename>pointy arrow.png</Overlay_Filename>\n<Overlay_Name>Pointy Arrow</Overlay_Name>\n<Text_Top>70</Text_Top>\n<Text_Left>20</Text_Left>\n<Text_Bottom>70</Text_Bottom>\n<Text_Right>80</Text_Right>\n<Fill_Color>1</Fill_Color>\n<Border_Color>1</Border_Color>\n<Initial_Fill_Color>0xffe05f00</Initial_Fill_Color>\n<Initial_Border_Color>0xffd7d7d7</Initial_Border_Color>\n<VectorProps>\n  <figure>\n    <svg>\n         M 183 236 \n         L 183 179 L 0 179 \n         L 0 56    L 183 56\n         L 183 0   L 329 118 \n         Z\n    </svg>\n\n  </figure>\n  <borderWidth>5.00</borderWidth>\n  <seamY>118</seamY>\n  <textBoundaries>P3 P4 IH4:5:6 P1</textBoundaries>\n  <shapeConstraints>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <bound>0</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>3</pointIndex1>\n      <bound>1</bound>\n      <constrainType>0</constrainType>\n    </shapeConstraints_Object>\n    <shapeConstraints_Object>\n      <pointIndex>4</pointIndex>\n      <pointIndex1>5</pointIndex1>\n      <pointIndex2>6</pointIndex2>\n      <pointHint>3</pointHint>\n      <bound>2</bound>\n      <constrainType>1</constrainType>\n    </shapeConstraints_Object>\n  </shapeConstraints>\n  <reshapers>\n    <reshapers_Object>\n      <pointIndex>5</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.00</constrainBottomA>\n      <constrainBottomB>0.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>0</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>4</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>8.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>0.00</constrainTopB>\n      <constrainRightA>1.00</constrainRightA>\n      <constrainRightB>-8.00</constrainRightB>\n      <constrainBottomA>0.5</constrainBottomA>\n      <constrainBottomB>-10.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>1</pointIndex>\n          <axisX>1.00</axisX>\n          <axisY>0.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n    <reshapers_Object>\n      <pointIndex>3</pointIndex>\n      <constrainLeftA>0.00</constrainLeftA>\n      <constrainLeftB>0.00</constrainLeftB>\n      <constrainTopA>0.00</constrainTopA>\n      <constrainTopB>8.00</constrainTopB>\n      <constrainRightA>0.00</constrainRightA>\n      <constrainRightB>0.00</constrainRightB>\n      <constrainBottomA>0.50</constrainBottomA>\n      <constrainBottomB>-8.00</constrainBottomB>\n      <dependencies>\n        <dependencies_Object>\n          <pointIndex>2</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>-1.00</axisY>\n        </dependencies_Object>\n        <dependencies_Object>\n          <pointIndex>4</pointIndex>\n          <axisX>0.00</axisX>\n          <axisY>1.00</axisY>\n        </dependencies_Object>\n      </dependencies>\n    </reshapers_Object>\n  </reshapers>\n  <shapeWidth>329</shapeWidth>\n  <shapeHeight>236</shapeHeight>\n</VectorProps>\n<Style>5</Style>\n</Overlay>"
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 547.590361445181,
+                      "translation1" : -16.5343701464872,
+                      "rotation2" : 3.14159265358979,
+                      "scale0" : 1.20942137649264,
+                      "scale1" : 0.884662678923349
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 2904,
+                    "duration" : 53,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 53,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-fill-color-blue" : 0.87843137254902,
+                      "default-fill-color-green" : 0.372549019607843,
+                      "default-fill-color-red" : 0.0,
+                      "default-legacy-flip-y" : 0.0,
+                      "default-legacy-text-callout-vertical-align" : "middle",
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-stroke-color-blue" : 0.843137254901961,
+                      "default-stroke-color-green" : 0.843137254901961,
+                      "default-stroke-color-red" : 0.843137254901961,
+                      "default-text" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fswiss\\fprq2\\fcharset0 Arial;}}{\\colortbl ;\\red255\\green255\\blue255;}\\viewkind4\\uc1\\pard\\qc\\cf1\\fs72 abc}",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 55,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\netadmin\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Projectf19cad2.autosave.tscproj",
+    "CanvasZoom" : 83,
+    "Date" : "2021-05-05 01:33:48 ÖS",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "MP4 with Smart Player (up to 1080p)",
+    "ProjectDimensionsChanged" : "1",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Legacy",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
