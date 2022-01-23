@@ -1,3 +1,8 @@
+/**
+ * @author - tunCode
+ * @description - developed to easily determine the user's needs
+ */
+
 Survey
     .StylesManager
     .applyTheme("bootstrap");
@@ -44,7 +49,6 @@ var json = {
                     "Aydınlatma",
                     "Bilgilendirme afet alanına yönlendirme",
                     "Telefon şarjı"
-                    //! bağlantısı yapılmadı
                 ]
             },
 
@@ -79,9 +83,6 @@ var json = {
                     "Hayır"
                 ]
             },
-
-            //! KONFORU ARTTIRMAK -> Güneş ile paneli ile direğin of-grit çalışmasını çalışmasını ister misiniz sorusuna bu mu bağlanıyor
-            //! Yoksa o soru cevaplanınca mı bu kısım açılıyor ? 
 
             //! TEMİZ ENERJİ KULLANIMINI DESTEKLEMEK
 
@@ -331,7 +332,6 @@ var json = {
                 "choices": [
                     "İnsanlar",
                     "Araçlar",
-                    // "Her ikisi de", bu seçenekte ne olucak ? 
                 ]
             },
             //! GÜVENLİĞİ SAĞLAMAK --> İNSANLAR
@@ -447,7 +447,6 @@ var json = {
                 "choices": [
                     "Silah sesi",
                     "Çığlık sesi",
-                    //* DİĞER EKLENEBİLİR Mİ ? 
                 ]
             },
             {
@@ -557,7 +556,6 @@ var json = {
                 "choices": [
                     "Geçip giden araçlar",
                     "Aynı alandaki araçlar",
-                    // "Her ikisi de", 
                 ]
             },
             {
@@ -569,7 +567,6 @@ var json = {
                 "choicesFromQuestionMode": "selected",
                 "colCount": 2,
                 "choices": [
-                    // Dallanma bitiyor aksiyon yok..
                     "Evet",
                     "Hayır"
                 ]
@@ -598,7 +595,6 @@ var json = {
                 "choices": [
                     "Evet",
                     "Hayır"
-                    // evet derse ne olucak hayır derse ne olucak ? 
                 ]
             },
             {
@@ -612,7 +608,6 @@ var json = {
                 "choices": [
                     "Evet",
                     "Hayır"
-                    // evet derse ne olucak hayır derse ne olucak ? 
                 ]
             }
             //! GÜVENLİĞİ SAĞLAMAK --> ARAÇLAR
